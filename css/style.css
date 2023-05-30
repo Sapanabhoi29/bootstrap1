@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,800;0,900;1,800;1,900&display=swap');
+
+html,body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+body {
+    background: rgb(252, 232, 221);
+    background: linear-gradient(114deg, rgba(252, 232, 221, 1) 0%, rgba(233, 246, 242, 1) 45%, rgba(230, 249, 246, 1) 61%, rgba(237, 229, 252, 1) 82%);
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+    background: rgb(252, 232, 221);
+    background: linear-gradient(114deg, rgba(252, 232, 221, 1) 0%, rgba(233, 246, 242, 1) 45%, rgba(230, 249, 246, 1) 61%, rgba(237, 229, 252, 1) 82%);
+    padding-top: 10px;
+}
+
+a.navbar-brand{
+    font-size: 40px;
+}
+
+.wrapper{
+    margin-top: 100px;
+}
+
+#navbarSupportedContent {
+    padding-left: 40px;
+}
+
+.nav-link {
+    color: black;
+}
+
+.nav-item {
+    padding: 10px;
+}
+
+.border {
+    border-radius: 50px;
+    margin-left: 50px;
+}
+
+.bg-blue {
+    border-radius: 50px;
+    background-color: #6372fd;
+}
+
+.image1 {
+    width: 100%;
+    mix-blend-mode: darken;
+}
+
+.heading1 {
+    font-size: 65px;
+    font-weight: 700;
+    padding-top: 70px;
+}
+
+.fa-arrow-right {
+    margin-left: 20px;
+}
+
+.SocialMedia {
+    color: #6372fd
+}
+
+.bg-green {
+    background-image: linear-gradient(#fce8dd #e9f6f2, #e5faf7 #ede5fc);
+}
+
+.text-blue {
+    color: #6372fd;
+    padding-top: 50px;
+}
+
+.image2 {
+    width: 100%;
+    mix-blend-mode: darken;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.second {
+    padding-top: 50px;
+}
+
+h2 {
+    font-weight: 800 !important;
+}
+
+.list {
+    line-height: 40px;
+    padding-left: 1px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.fa-check {
+    border-radius: 100%;
+    background: rgb(252, 232, 221);
+    background: linear-gradient(332deg, rgba(252, 232, 221, 1) 19%, rgba(233, 246, 242, 1) 45%, rgba(230, 249, 246, 1) 53%, rgba(237, 229, 252, 1) 65%);
+    padding: 5px;
+}
+
+.image3{
+    width: 100%;
+    mix-blend-mode: darken;
+}
+
+.outline{
+   background-color: white;
+    border-width: thin;
+}
+
+.box{
+    margin-right: -245px;
+}
+
+.bg-yellow{
+    background: rgb(237,181,252);
+background: linear-gradient(180deg, rgba(237,181,252,1) 6%, rgba(177,201,231,1) 24%, rgba(106,226,214,1) 50%, rgba(97,187,250,1) 74%);
+}
+
+.bg-pink{
+    background: rgb(240,228,237);
+background: linear-gradient(180deg, rgba(240,228,237,1) 11%, rgba(222,240,239,1) 44%, rgba(207,230,244,1) 76%);
+}
+
+.bg-blu{
+    background-color: #6372fd;
+}
